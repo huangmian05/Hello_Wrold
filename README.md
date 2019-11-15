@@ -1,2 +1,1 @@
-# Hello World
-Machine learning changes the world.
+# PMR assignments
