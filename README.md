@@ -1,2 +1,2 @@
-# Hello Wrold
+# Hello World
 Machine learning changes the world.
